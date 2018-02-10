@@ -7,5 +7,9 @@
     "url": "?.git"
   },
   "author": "Khanh Bui",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-until": "^0.1.3"
+  }
 }
