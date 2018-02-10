@@ -1,0 +1,11 @@
+{
+  "name": "study_workflows",
+  "version": "0.0.1",
+  "description": "A project to showcase workflows",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Khanh Bui",
+  "license": "ISC"
+}
