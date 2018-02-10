@@ -4,12 +4,13 @@
   "description": "A project to showcase workflows",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/khanhb1995/workflows.git"
   },
   "author": "Khanh Bui",
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-coffee": "^3.0.2",
     "gulp-until": "^0.1.3"
   }
 }
